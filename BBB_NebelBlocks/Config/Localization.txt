@@ -1,0 +1,79 @@
+key,English,German
+
+Nebel_Block_00,"Fog 0m White","Nebel 0m Weiss"
+Nebel_Block_00Desc,"Make Fog","Mach Nebel"
+
+Nebel_Block_01,"Fog 1m White","Nebel 1m Weiss"
+Nebel_Block_01Desc,"Make Fog","Mach Nebel"
+
+Nebel_Block_02,"Fog 2m White","Nebel 2m Weiss"
+Nebel_Block_02Desc,"Make Fog","Mach Nebel"
+
+Nebel_Block_03,"Fog 3m White","Nebel 3m Weiss"
+Nebel_Block_03Desc,"Make Fog","Mach Nebel"
+
+Nebel_Block_04,"Fog 4m White","Nebel 4m Weiss"
+Nebel_Block_04Desc,"Make Fog","Mach Nebel"
+
+
+Nebel_Block_00_Rot,"Fog 0m Red","Nebel 0m Rot"
+Nebel_Block_00_RotDesc,"Make Fog","Mach Nebel"
+
+Nebel_Block_01_Rot,"Fog 1m Red","Nebel 1m Rot"
+Nebel_Block_01_RotDesc,"Make Fog","Mach Nebel"
+
+Nebel_Block_02_Rot,"Fog 2m Red","Nebel 2m Rot"
+Nebel_Block_02_RotDesc,"Make Fog","Mach Nebel"
+
+Nebel_Block_03_Rot,"Fog 3m Red","Nebel 3m Rot"
+Nebel_Block_03_RotDesc,"Make Fog","Mach Nebel"
+
+Nebel_Block_04_Rot,"Fog 4m Red","Nebel 4m Rot"
+Nebel_Block_04_RotDesc,"Make Fog","Mach Nebel"
+
+
+Nebel_Block_00_Blau,"Fog 0m Blue","Nebel 0m Blau"
+Nebel_Block_00_BlauDesc,"Make Fog","Mach Nebel"
+
+Nebel_Block_01_Blau,"Fog 1m Blue","Nebel 1m Blau"
+Nebel_Block_01_BlauDesc,"Make Fog","Mach Nebel"
+
+Nebel_Block_02_Blau,"Fog 2m Blue","Nebel 2m Blau"
+Nebel_Block_02_BlauDesc,"Make Fog","Mach Nebel"
+
+Nebel_Block_03_Blau,"Fog 3m Blue","Nebel 3m Blau"
+Nebel_Block_03_BlauDesc,"Make Fog","Mach Nebel"
+
+Nebel_Block_04_Blau,"Fog 4m Blue","Nebel 4m Blau"
+Nebel_Block_04_BlauDesc,"Make Fog","Mach Nebel"
+
+
+Nebel_Block_00_Gelb,"Fog 0m Yellow","Nebel 0m Gelb"
+Nebel_Block_00_GelbDesc,"Make Fog","Mach Nebel"
+
+Nebel_Block_01_Gelb,"Fog 1m Yellow","Nebel 1m Gelb"
+Nebel_Block_01_GelbDesc,"Make Fog","Mach Nebel"
+
+Nebel_Block_02_Gelb,"Fog 2m Yellow","Nebel 2m Gelb"
+Nebel_Block_02_GelbDesc,"Make Fog","Mach Nebel"
+
+Nebel_Block_03_Gelb,"Fog 3m Yellow","Nebel 3m Gelb"
+Nebel_Block_03_GelbDesc,"Make Fog","Mach Nebel"
+
+Nebel_Block_04_Gelb,"Fog 4m Yellow","Nebel 4m Gelb"
+Nebel_Block_04_GelbDesc,"Make Fog","Mach Nebel"
+
+
+Nebel_Block_00BlockVariantHelper,"Fog White","Nebel Weiss"
+Nebel_Block_00BlockVariantHelperDesc,"Make your own Fog","Mach dein eigener Nebel"
+
+Nebel_Block_00_RotBlockVariantHelper,"Fog Red","Nebel Rot"
+Nebel_Block_00_RotBlockVariantHelperDesc,"Make your own Fog","Mach dein eigener Nebel"
+
+Nebel_Block_00_BlauBlockVariantHelper,"Fog Blue","Nebel Blau"
+Nebel_Block_00_BlauBlockVariantHelperDesc,"Make your own Fog","Mach dein eigener Nebel"
+
+Nebel_Block_00_GelbBlockVariantHelper,"Fog Yellow","Nebel Gelb"
+Nebel_Block_00_GelbBlockVariantHelperDesc,"Make your own Fog","Mach dein eigener Nebel"
+
+

@@ -1,0 +1,27 @@
+<configs>
+
+<append xpath="/recipes">
+
+<recipe name="Nebel_Block_00BlockVariantHelper" count="5" craft_area="workbench" tags="learnable">
+	<ingredient name="bucketRiverWater" count="1"/>
+</recipe>
+
+<recipe name="Nebel_Block_00_RotBlockVariantHelper" count="5" craft_area="workbench" tags="learnable">
+	<ingredient name="bucketRiverWater" count="1"/>
+	<ingredient name="resourcePaint" count="1"/>
+</recipe>
+
+<recipe name="Nebel_Block_00_BlauBlockVariantHelper" count="5" craft_area="workbench" tags="learnable">
+	<ingredient name="bucketRiverWater" count="1"/>
+	<ingredient name="resourcePaint" count="1"/>
+</recipe>
+
+<recipe name="Nebel_Block_00_GelbBlockVariantHelper" count="5" craft_area="workbench" tags="learnable">
+	<ingredient name="bucketRiverWater" count="1"/>
+	<ingredient name="resourcePaint" count="1"/>
+</recipe>
+
+
+</append>
+
+</configs>

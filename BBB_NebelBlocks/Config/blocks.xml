@@ -1,0 +1,430 @@
+<configs>
+
+<append xpath="/blocks">
+
+<!-- White -->
+		<block name="Nebel_Block_00">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_00.unity3d?GameObject_Nebel_Block_00.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00BlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_01">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_01.unity3d?GameObject_Nebel_Block_01.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00BlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_02">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_02.unity3d?GameObject_Nebel_Block_02.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00BlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_03">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_03.unity3d?GameObject_Nebel_Block_03.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00BlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_04">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_04.unity3d?GameObject_Nebel_Block_04.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00BlockVariantHelper" />
+		</block>
+
+
+<!-- Red -->
+		<block name="Nebel_Block_00_Rot">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_00_Rot.unity3d?GameObject_Nebel_Block_00_Rot.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Rot"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_RotBlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_01_Rot">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_01_Rot.unity3d?GameObject_Nebel_Block_01_Rot.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Rot"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_RotBlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_02_Rot">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_02_Rot.unity3d?GameObject_Nebel_Block_02_Rot.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Rot"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_RotBlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_03_Rot">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_03_Rot.unity3d?GameObject_Nebel_Block_03_Rot.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Rot"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_RotBlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_04_Rot">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_04_Rot.unity3d?GameObject_Nebel_Block_04_Rot.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Rot"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_RotBlockVariantHelper" />
+		</block>
+		
+
+<!-- Blue -->		
+		<block name="Nebel_Block_00_Blau">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_00_Blau.unity3d?GameObject_Nebel_Block_00_Blau.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Blau"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_BlauBlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_01_Blau">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_01_Blau.unity3d?GameObject_Nebel_Block_01_Blau.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Blau"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_BlauBlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_02_Blau">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_02_Blau.unity3d?GameObject_Nebel_Block_02_Blau.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Blau"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_BlauBlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_03_Blau">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_03_Blau.unity3d?GameObject_Nebel_Block_03_Blau.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Blau"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_BlauBlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_04_Blau">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_04_Blau.unity3d?GameObject_Nebel_Block_04_Blau.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Blau"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_BlauBlockVariantHelper" />
+		</block>
+		
+		
+<!-- Yellow -->		
+
+		<block name="Nebel_Block_00_Gelb">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_00_Gelb.unity3d?GameObject_Nebel_Block_00_Gelb.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Gelb"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_GelbBlockVariantHelper" />
+		</block>
+	
+		<block name="Nebel_Block_01_Gelb">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_01_Gelb.unity3d?GameObject_Nebel_Block_01_Gelb.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Gelb"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_GelbBlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_02_Gelb">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_02_Gelb.unity3d?GameObject_Nebel_Block_02_Gelb.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Gelb"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_GelbBlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_03_Gelb">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_03_Gelb.unity3d?GameObject_Nebel_Block_03_Gelb.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Gelb"/>
+			<property name="MultiBlockDim" value="1,1,1"/>
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_GelbBlockVariantHelper" />
+		</block>
+		
+		<block name="Nebel_Block_04_Gelb">
+			<property name="Model" value="#@modfolder:Resources/Nebel_Block_04_Gelb.unity3d?GameObject_Nebel_Block_04_Gelb.prefab"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Gelb"/>
+			<property name="MultiBlockDim" value="1,1,1"/> 
+			<property name="Material" value="Mair"/>
+			<property name="MaxDamage" value="100"/>
+			<property name="FuelValue" value="300"/>
+			<property class="RepairItems"><property name="resourceCobblestones" value="10"/></property>
+				<drop event="Destroy" name="resourceBrokenGlass" count="1,3"/>
+				<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+			<property name="LightOpacity" value="1"/>
+			<property name="Shape" value="ModelEntity"/>
+			<property name="Collide" value="sight"/>
+			<property name="ModelOffset" value="0,0,0"/>   
+			<property name="PlaceEverywhere" value="true"/>
+			<property name="CanPickup" value="true" param1="Nebel_Block_00_GelbBlockVariantHelper" />
+		</block>
+
+
+
+<!-- VariantHelper -->
+		<block name="Nebel_Block_00BlockVariantHelper">
+			<property name="UnlockedBy" value="craftingMedical"/>
+			<property name="Extends" value="Nebel_Block_00"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="Nebel_Block_00"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="PlaceAltBlockValue" value="Nebel_Block_00,Nebel_Block_01,Nebel_Block_02,Nebel_Block_03,Nebel_Block_04"/>
+			<property name="SortOrder1" value="U200"/>
+			<property name="SortOrder2" value="0000"/>
+			<property name="FilterTags" value="MC_playerBlocks,SC_playerHelpers"/>
+		</block>
+		
+		<block name="Nebel_Block_00_RotBlockVariantHelper">
+			<property name="UnlockedBy" value="craftingMedical"/>
+			<property name="Extends" value="Nebel_Block_00_Rot"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Rot"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="PlaceAltBlockValue" value="Nebel_Block_00_Rot,Nebel_Block_01_Rot,Nebel_Block_02_Rot,Nebel_Block_03_Rot,Nebel_Block_04_Rot"/>
+			<property name="SortOrder1" value="U200"/>
+			<property name="SortOrder2" value="0000"/>
+			<property name="FilterTags" value="MC_playerBlocks,SC_playerHelpers"/>
+		</block>
+		
+		<block name="Nebel_Block_00_BlauBlockVariantHelper">
+			<property name="UnlockedBy" value="craftingMedical"/>
+			<property name="Extends" value="Nebel_Block_00_Blau"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Blau"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="PlaceAltBlockValue" value="Nebel_Block_00_Blau,Nebel_Block_01_Blau,Nebel_Block_02_Blau,Nebel_Block_03_Blau,Nebel_Block_04_Blau"/>
+			<property name="SortOrder1" value="U200"/>
+			<property name="SortOrder2" value="0000"/>
+			<property name="FilterTags" value="MC_playerBlocks,SC_playerHelpers"/>
+		</block>
+		
+		<block name="Nebel_Block_00_GelbBlockVariantHelper">
+			<property name="UnlockedBy" value="craftingMedical"/>
+			<property name="Extends" value="Nebel_Block_00_Gelb"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="Nebel_Block_00_Gelb"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="PlaceAltBlockValue" value="Nebel_Block_00_Gelb,Nebel_Block_01_Gelb,Nebel_Block_02_Gelb,Nebel_Block_03_Gelb,Nebel_Block_04_Gelb"/>
+			<property name="SortOrder1" value="U200"/>
+			<property name="SortOrder2" value="0000"/>
+			<property name="FilterTags" value="MC_playerBlocks,SC_playerHelpers"/>
+		</block>
+
+</append>
+
+</configs>
